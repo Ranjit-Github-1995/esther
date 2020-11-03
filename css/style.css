@@ -197,6 +197,7 @@ a{
 .outer{
     background-color: #f2f2f2;
     height: 565px;
+    padding-bottom: 12px;
 }
 
 /*******************
