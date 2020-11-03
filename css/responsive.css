@@ -1,0 +1,3642 @@
+@media only screen and (min-width: 1600px) and (max-width: 1899px){
+    
+    .contact_form p{
+        width: 69%;
+    }
+    .contact_form .form_sec{
+        width: 65%;
+    }
+    .contact_form .form_sec ul li{
+        width: 49.7%;
+    }
+    .contact_form .form_sec ul li:last-child{
+        width: 100%;
+    }
+    .contact_form .form_sec button{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1193px) and (max-width: 1399px){
+    
+    .awsome .awsome_in ul li .process_icon::before{
+        width: 315px;
+    }
+    .featured{
+        margin-top: 90px;
+    }
+    .right_padding{
+        padding-left: 15px !important;
+    }
+    .featured .tarun{
+        max-width: 46% !important;
+    }
+    .right_padding:nth-child(2n){
+        padding-right: 15px !important;
+    }
+    .right_padding:last-child{
+        padding-right: 15px !important;
+    }
+    .wedding{
+        margin-top: 90px;
+    }
+    .product{
+        margin-top: 40px;
+    }
+    .blog{
+        margin-top: 55px;
+    }
+    .slick-dots{
+        display: none !important;
+    }
+    .blog h2{
+        padding-bottom: 0px;
+    }
+    .sequre .center{
+        padding: 0 90px;
+    }
+    .insider .center_con{
+        width: 39%;
+    }
+    .footer{
+        margin-top: 85px;
+    }
+    .footer .footer_con{
+        padding: 0 23px;
+    }
+    .whats .padding_change{
+        padding-left: 15px;
+    }
+    .whats .padding_change:nth-child(2n){
+        padding-right: 15px;
+        padding-left: 0px;
+    }
+    
+}
+@media only screen and (min-width: 960px){
+    .mobile_logo{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1192px) {
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*** whsts new sec start ***/
+    
+    .whats .nayan .caption_of_whats{
+        right: 0%;
+        padding-top: 210px;
+        background-color: rgba(0,0,0,0.2);
+        width: 100%;
+        height: 100%;
+    }
+    .whats .nayan .caption_of_whats h5{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats p{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats span{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats.left_side{
+        right: 0%;
+    }
+    .whats .padding_change{
+        padding-left: 15px;
+    }
+    .whats .padding_change:nth-child(2n){
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+    .right_padding{
+        padding: 0 15px !important;
+    }
+    .right_padding:last-child{
+        padding-right: 15px !important;
+    }
+    
+    /*** whats new sec end ***/
+    
+    /*** featured sec start ***/
+    
+    .featured{
+        margin-top: 70px;
+    }
+    .featured h2{
+        padding-bottom: 45px;
+    }
+    .featured .tarun{
+        /*max-width: 565px !important;*/
+        max-width: 50% !important;
+        margin-left: 0px;
+        padding-right: 0px !important;
+    }
+    .featured .manish{
+        max-width: 50% !important;
+    }
+    .featured .big_pic img{
+        width: auto;
+    }
+.featured .fet_cap {
+	right: 0px;
+	background-color: rgba(0,0,0,0.4);
+	width: 97.6%;
+	height: 700px;
+	margin-right: 0px;
+	top: 0px;
+	text-align: center;
+	padding-top: 250px;
+	overflow: hidden;
+	left: 15px;
+}
+    .featured .fet_cap h5{
+        color: #fff;
+        width: 100%;
+    }
+    .featured .fet_cap p{
+        color: #fff;
+    }
+    .featured .fet_cap span{
+        color: #fff;
+    }
+    .featured .fet_cap a{
+        margin: 0px auto;
+    }
+    .featured .under_box .right_content h5{
+        font-size: 25px;
+    }
+    .featured .anita_image_box{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .lap{
+        padding-right: 0px !important;
+    }
+    .featured:last-child .anita_image_box{
+        margin-left: 0px;
+    }
+    
+    /*** featured sec end ***/
+    
+    /*** wedding sec start ***/
+    
+    .wedding{
+        margin-top: 70px;  
+    }
+    .wedding .wedding_bg .slick-next::before{
+        right: 12px;
+    }
+    .wedding .wedding_bg .slick-prev::before{
+        left: 12px;
+    }
+    
+    /*** wedding sec end ***/
+    
+    /*** best seller sec start ***/
+    
+    .seller .product_des h5{
+        padding-top: 20px;
+    }
+    .seller .slick-next::before{
+        right: 12px;
+    }
+    .seller .slick-prev::before{
+        left: 12px;
+    }
+    
+    /*** best seller sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        margin-top: 70px;
+    }
+    .blog h2{
+        padding-bottom: 0px;
+    }
+    .blog .blog_outer{
+        padding: 46px 55px 70px 55px;
+    }
+    .blog .blog_outer .blog_content{
+        padding-top: 20px;
+    }
+    .blog .blog_outer .blog_content h5{
+        font-size: 17px;
+    }
+    
+    /*** blog sec end ***/
+    
+    /*** insider sec start ***/
+    
+    .insider{
+        padding: 60px 0;
+    }
+    .insider .center_con{
+        width: 40%;
+    }
+    
+    /*** insider sec end ***/
+    
+    /*** sequre sec start ***/
+    
+    .sequre{
+        margin-top: 70px; 
+    }
+    .sequre .center{
+        padding: 0 70px;
+    }
+    .sequre .center p{
+        padding-right: 0px;
+    }
+    
+    /*** sequre sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: 70px;
+    }
+    .footer .footer_con{
+        overflow: hidden;
+        padding: 0 55px;
+    }
+    .footer .footer_con ul li.es{
+        width: 23%;
+    }
+    .footer .footer_con ul li.es img{
+        width: 100%;
+    }
+    .footer .footer_con .poli{
+        width: 50%;
+    }
+    .footer .footer_con ul li.con .lo img{
+        padding-bottom: 55px;
+    }
+    
+    /*** footer sec end ***/
+    
+    /************* POP UP **************/
+    
+    
+    .popup_page{
+        margin-top: 50px !important;
+        margin-bottom: 70px !important;
+        padding: 50px 40px 50px 40px !important;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail{
+        padding-left: 23px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .bottom_pro{
+        padding-top: 15px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .big_pro img{
+        height: auto;
+    }
+    
+    /************* POP UP **************/
+    
+    /*******************************
+        Home page responsive end
+    ********************************/
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    .product{
+        margin-top: 20px;
+    }
+    .product .inner_pro{
+        padding: 0 15px;
+    }
+    .product .inner_pro .product_women .big_pro img{
+        width: 100%;
+        height: 426px;
+        margin-left: 17px;
+    }
+    .product .inner_pro .product_women .small_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail{
+        padding-left: 30px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.add_to_bag{
+        padding: 12px 21px;
+    }
+    .pro_des_con{
+        padding-left: 68px;
+    }
+    .product .inner_pro .right_pro_detail p{
+        width: 77%;
+    }
+    .product .inner_pro .right_pro_detail .share{
+        width: 84%;
+    }
+    .product .inner_pro .right_pro_detail .share ul li a i.fa-twitter{
+        padding: 9px 8px;
+    }
+    .you{
+        margin-top: 60px;
+        padding-bottom: 70px;
+    }
+    .you h2{
+        padding: 56px 0 48px 0;
+    }
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    
+    /*****************************************
+        About Us inner page responsive start
+    *****************************************/
+    
+    /*** about us sec start ***/
+    .about{
+        margin-top: 55px;
+    }
+    .about .about_in h3{
+        padding-top: 25px;
+    }
+    .about .about_in{
+        padding: 0 40px;
+    }
+    .model{
+        padding-left: 25px !important;
+    }
+    
+    /*** about us sec end ***/
+    
+    /***m awsome sec start ***/
+    
+    .awsome{
+        margin-top: 55px;
+    }
+    .awsome .awsome_in{
+        padding: 0 40px;
+    }
+    .awsome .awsome_in ul li .process_det{
+        margin-top: 15px;
+    }
+    .awsome .awsome_in ul li .process_det h6{
+        padding-bottom: 16px;
+    }
+    .awsome .awsome_in ul li .process_det h6::after{
+        right: 39%;
+    }
+    .awsome .awsome_in ul li .process_det h6{
+        font-size: 28px;
+    }
+    .awsome .awsome_in ul li .process_icon::before{
+        width: 293px;
+    }
+    
+    /***m awsome sec end ***/
+    
+    /*** vison sec start ***/
+    
+    .vison{
+        margin-top: 55px;
+        margin-bottom: 60px;
+    }
+    .vison .vison_in .vison_con h2{
+        padding-top: 35px;
+        padding-bottom: 15px;
+    }
+    .vison .vison_in .vison_con{
+        padding-left: 15px;
+    }
+    .vison .vison_in .men_women img{
+        margin-left: -63px;
+    }
+    
+    /*** vison sec end ***/
+    
+    /****************************************
+        About Us inner page responsive end
+    *****************************************/
+    
+    /*******************************************
+        Contact us inner page responsive start
+    *******************************************/
+    
+    .contact_map{
+        margin-bottom: 15px;
+    }
+    .contact_form{
+        margin-top: 0px;
+    }
+    .contact_form h2{
+        padding-bottom: 0px;
+    }
+    .contact_form p{
+        width: 88%;
+        padding-bottom: 18px;
+    }
+    .contact_form .form_sec{
+        width: 83%;
+    }
+    .contact_form .form_sec ul li{
+        width: 49.6%;
+    }
+    .contact_form .form_sec ul li:last-child{
+        width: 100%;
+    }
+    .contact_form .form_sec ul li textarea{
+        width: 100%;
+        height: 100px;
+    }
+    .contact_form .form_sec button{
+        width: 100%;
+    }
+    .contact_form .form_sec button{
+        margin-bottom: 40px;
+    }
+    .contact_form .form_sec ul li input[type="text"]{
+        height: 38px;
+    }
+    .contact_form .form_sec ul li input[type="email"]{
+        height: 38px;
+    }
+    .contact_form h2{
+        padding-bottom: 18px;
+    }
+    
+    /*******************************************
+        Contact us inner page responsive end
+    *******************************************/
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive start
+    ***********************************************************************/
+    
+    .privacy{
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+    .privacy .privacy_in{
+        padding: 0 70px 0 35px;
+    }
+   .privacy .privacy_in .custom {
+	   max-width: 25%;
+    }
+    .privacy .privacy_in .pri_right_border{
+        height: 250px;
+    }
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive end
+    ***********************************************************************/
+    
+    /***************************************
+        Shop inner page Responsive start
+    ***************************************/
+    
+    .shop .sort{
+        margin-right: 22px;
+    }
+    .shop{
+        margin-top: 30px;
+    }
+    .shop .listing_product{
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .shop .listing_product .product_box .model_image img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .shop .listing_product .pro_sec_gap{
+        margin-bottom: 30px;
+    }
+    
+    /***************************************
+        Shop inner page Responsive end
+    ***************************************/
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*** logo sec start ***/
+    
+    .outer .logo .serch_wishlist .center_logo a img{
+        width: 20%;
+    }
+    .outer .logo .serch_wishlist input#search-bar{
+        width: 100%;
+    }
+    .outer .logo .serch_wishlist .center_logo{
+        width: 92%;
+        top: 12px;
+        display: none;
+    }
+    .logo .serch_wishlist .serch{
+        width: 55%;
+    }
+    .outer .logo .serch_wishlist .search-icon{
+        top: -30px;
+        right: 22px;
+    }
+    .mobile_logo{
+        overflow: hidden;
+        float: left;
+        position: absolute;
+        top: -8px;
+    }
+    .mobile_logo img{
+        width: auto;
+    }
+    .outer .logo{
+        padding-top: 10px;
+    }
+    .outer .logo .serch_wishlist{
+        padding-bottom: 0px;
+    }
+    
+    
+    /*** logo sec end ***/
+    
+    /*** banner sec start ***/
+    
+    .top_banner{
+        background-position: left;
+        margin-top: 20px;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** whsts new sec start ***/
+    
+    .whats{
+        margin-top: 160px;
+    }
+    .whats h2{
+        padding-bottom: 30px;
+    }
+    .whats .nayan .caption_of_whats{
+        right: 0%;
+        padding-top: 210px;
+        background-color: rgba(0,0,0,0.2);
+        width: 100%;
+        height: 100%;
+    }
+.whats .nayan img.baby {
+	margin-left: -310px;
+	width: auto;
+	/* height: 450px; */
+	/* object-fit: cover; */
+}
+    .whats .nayan img.nibha{
+        width: 100%;
+        height: 450px;
+        object-fit: cover;
+    }
+    .whats .nayan .caption_of_whats h5{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats p{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats span{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats.left_side{
+        right: 0%;
+    }
+    .whats .padding_change{
+        padding-left: 15px;
+    }
+    .whats .padding_change:nth-child(2n) {
+	   padding-left: 0px;
+	   padding-right: 15px;
+    }
+    @media only screen and (min-width: 810px) and (max-width: 905px){
+        .whats .nayan img.baby{
+            margin-left: -263px;
+        }
+    }
+    @media only screen and (min-width: 905px) and (max-width: 991px){
+        .whats .nayan img.baby{
+            margin-left: -218px;
+        }
+    }
+    
+    /*** whats new sec end ***/
+    
+    /*** four model sec start ***/
+    
+    .four_model{
+        margin-top: 30px;
+    }
+    .right_padding{
+        margin-bottom: 20px;
+        padding-left: 15px !important;
+    }
+    .right_padding:nth-child(2n){
+        padding-left: 15px !important;
+    }
+    .right_padding:last-child{
+        padding-right: 15px !important;
+    }
+    
+    /*** four model sec end ***/
+    
+    /*** featured sec start ***/
+    
+    .featured{
+        margin-top: 15px;
+    }
+    .featured h2{
+        padding-bottom: 30px;
+    }
+    .featured .tarun{
+        max-width: 100% !important;
+        margin-left: 0px;
+        padding-right: 15px !important;
+    }
+    .featured .big_pic img{
+        width: 100%;
+    }
+    .featured .fet_cap{
+        right: 15px;
+        background-color: rgba(0,0,0,0.4);
+        width: 100%;
+        height: 700px;
+        margin-right: 0px;
+        top: 0px;
+        text-align: center;
+        padding-top: 250px;
+    }
+    .featured .manish{
+        max-width: 100% !important;
+    }
+    .featured .under_box .right_content{
+        right: 85px;
+    }
+    .featured .under_box:nth-child(2n) .right_content{
+        right: 115px;
+    }
+    .featured .fet_cap h5{
+       
+        width: 100%;
+    }
+    .featured .fet_cap p{
+        
+    }
+    .featured .fet_cap span{
+        
+    }
+    .featured .fet_cap a{
+        margin: 0px auto;
+    }
+    .featured .under_box .right_content h5{
+        font-size: 25px;
+    }
+    .featured .anita_image_box{
+        margin-left: 0px;
+        width: auto;
+    }
+    .featured:last-child .anita_image_box{
+        margin-left: 0px;
+    }
+    
+    /*** featured sec end ***/
+    
+    /*** wedding sec start ***/
+    
+    .wedding{
+        margin-top: 0px;  
+    }
+    .wedding h2{
+        padding-bottom: 30px;
+    }
+    .wedding .wedding_bg .slick-next::before{
+        right: 12px;
+    }
+    .wedding .wedding_bg .slick-prev::before{
+        left: 12px;
+    }
+    .wedding .wedding_bg{
+        padding-bottom: 45px;
+    }
+    
+    /*** wedding sec end ***/
+    
+    /*** best seller sec start ***/
+    .seller{
+        margin-top: 15px;
+    }
+    .seller h2{
+        padding-bottom: 10px;
+    }
+    
+    .seller .product_des h5{
+        padding-top: 20px;
+    }
+    .seller .slick-next::before{
+        right: 12px;
+    }
+    .seller .slick-prev::before{
+        left: 12px;
+    }
+    
+    /*** best seller sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .blog h2{
+        padding-bottom: 15px;
+    }
+    .blog .blog_outer{
+        padding: 15px;
+    }
+    .blog .blog_outer .blog_content{
+        padding-top: 20px;
+    }
+    .blog .blog_outer .blog_content h5{
+        font-size: 16px;
+    }
+    .blog .blog_outer .blog_content p{
+        font-size: 14px;
+    }
+    
+    /*** blog sec end ***/
+    
+    /*** insider sec start ***/
+    
+    .insider{
+        padding: 35px 0;
+    }
+    .insider h3{
+        font-size: 45px;
+    }
+    .insider .center_con{
+        width: 55%;
+    }
+    
+    /*** insider sec end ***/
+    
+    /*** sequre sec start ***/
+    
+    .sequre{
+        margin-top: 70px; 
+    }
+    .sequre .center{
+        padding: 0 35px;
+    }
+    .sequre .center p{
+        padding-right: 0px;
+        font-size: 15px;
+    }
+    .sequre .center h5{
+        font-size: 19px;
+    }
+    
+    
+    /*** sequre sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: 40px;
+        padding-bottom: 0px;
+    }
+    .footer .footer_con ul li:nth-child(2n){
+        width: 47%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .footer .footer_con ul li:nth-child(3n){
+        width: 50%;
+    }
+    .footer .footer_con .quick ul li{
+        display: block;
+        width: 100%;
+    }
+    .footer .footer_con h5.foll{
+        padding-left: 85px;
+    }
+    .footer .footer_con ul li ul li.social{
+        width: 16%;
+    }
+    .footer .footer_con ul li ul.follow{
+        padding-left: 85px;
+    }
+    .footer .footer_con{
+        overflow: hidden;
+        padding: 0 35px;
+    }
+    .footer .footer_con ul li.es{
+        width: 50%;
+    }
+    .footer .footer_con ul li.es img{
+        width: auto;
+    }
+    .footer .footer_con .poli{
+        width: 52%;
+    }
+    .footer .footer_con ul li.con .lo img{
+        padding-bottom: 30px;
+    }
+    .footer .footer_con .poli ul li{
+        width: 100%;
+        display: block;
+    }
+    .footer .footer_con ul li.con{
+        margin-bottom: 0px;
+    }
+    
+    /*** footer sec end ***/
+    
+    /************* POP UP **************/
+    
+    
+    .popup_page{
+        margin-top: 50px !important;
+        margin-bottom: 70px !important;
+        padding: 50px 40px 50px 40px !important;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail{
+        padding-left: 23px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .bottom_pro{
+        padding-top: 15px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .big_pro img{
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail .sold{
+        width: 100%;
+    }
+    
+    /************* POP UP **************/
+    
+    /*******************************
+        Home page responsive end
+    ********************************/
+    
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    .product{
+        margin-top: 20px;
+    }
+    .product .inner_pro{
+        padding: 0 15px;
+    }
+    .product .inner_pro .product_women .big_pro{
+        padding-bottom: 10px;
+    }
+    .product .inner_pro .product_women .big_pro img {
+	   width: 100%;
+	   height: auto;
+	   margin-left: 17px;
+    }
+    .product .inner_pro .product_women .small_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .product_women .small_pro{
+        display: inline-block;
+        width: 49%;
+    }
+    .product .inner_pro .right_pro_detail{
+        padding-left: 20px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.add_to_bag{
+        padding: 12px 21px;
+    }
+    .pro_des_con{
+        padding-left: 45px;
+    }
+    .pro_des_con p{
+        width: 100%;
+    }
+    .product .inner_pro .right_pro_detail p{
+        width: 77%;
+    }
+    .product .inner_pro .right_pro_detail .share{
+        width: 100%;
+    }
+    .pro_des_con ul li{
+        width: 100% !important;
+    }
+    .product .inner_pro .right_pro_detail .share ul li a i.fa-twitter{
+        padding: 9px 8px;
+    }
+    .you{
+        margin-top: 60px;
+        padding-bottom: 70px;
+    }
+    .you h2{
+        padding: 43px 0;
+    }
+    .you .also_sli img{
+        width: 100%;
+    }
+    .pro_tab{
+        margin-left: 32px;
+        width: 93.5%;
+    }
+    .product .inner_pro .right_pro_detail .share p{
+        width: 42%;
+        text-align: right;
+        padding-right: 20px;
+    }
+    .pro_tab ul li{
+        width: 229.3px;
+    }
+    
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    
+    /*****************************************
+        About Us inner page responsive start
+    *****************************************/
+    
+    /*** about us sec start ***/
+    .about{
+        margin-top: 20px;
+    }
+    .about .about_in h3{
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .about .about_in p{
+        font-size: 15px;
+    }
+    .about .about_in{
+        padding: 0 15px;
+    }
+    .model{
+        padding-left: 25px !important;
+    }
+    
+    /*** about us sec end ***/
+    
+    /***m awsome sec start ***/
+    
+    .awsome{
+        margin-top: 35px;
+    }
+    .awsome h2{
+        padding-bottom: 25px;
+    }
+    .awsome .awsome_in{
+        padding: 0 15px;
+    }
+    .awsome .awsome_in ul li .process_det{
+        margin-top: 15px;
+    }
+    .awsome .awsome_in ul li .process_det h6{
+        padding-bottom: 16px;
+        font-size: 23px;
+    }
+    .awsome .awsome_in ul li .process_det h6::after{
+        right: 40%;
+        width: 45px;
+    }
+    .awsome .awsome_in ul li .process_icon::before{
+        width: 231px;
+    }
+    
+    /***m awsome sec end ***/
+    
+    /*** vison sec start ***/
+    
+    .vison{
+        margin-top: 55px;
+        margin-bottom: 60px;
+    }
+    .vison .vison_in .vison_con h2{
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .vison .vison_in .vison_con{
+        padding-left: 15px;
+    }
+    .vison .vison_in .men_women{
+        width: 49.6%;
+    }
+    .vison .vison_in .men_women img{
+        
+    }
+    .vison .vison_in{
+        margin-left: 0px;
+    }
+    
+    /*** vison sec end ***/
+    
+    /****************************************
+        About Us inner page responsive end
+    *****************************************/
+    
+    /*******************************************
+        Contact us inner page responsive start
+    *******************************************/
+    
+    .contact_map{
+        margin-bottom: 20px;
+    }
+    .contact_form h2{
+        padding-bottom: 0px;
+    }
+    .contact_form{
+        margin-top: 0px;
+    }
+    .contact_form p{
+        width: 90%;
+        padding: 15px 0;
+    }
+    .contact_form .form_sec{
+        width: 83%;
+    }
+    .contact_form .form_sec ul li{
+        width: 49.5%;
+        margin-bottom: 13px;
+    }
+    .contact_form .form_sec ul li:last-child{
+        width: 100%;
+    }
+    .contact_form .form_sec ul li textarea{
+        width: 100%;
+        height: 85px;
+    }
+    .contact_form .form_sec button{
+        width: 100%;
+    }
+    .contact_form .form_sec button{
+        margin-bottom: 40px;
+    }
+    .contact_form .form_sec ul li input[type="email"]{
+        height: 38px;
+    }
+    .contact_form .form_sec ul li input[type="text"]{
+        height: 38px;
+    }
+    
+    /*******************************************
+        Contact us inner page responsive end
+    *******************************************/
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive start
+    ***********************************************************************/
+    
+    .privacy{
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+    .privacy .privacy_in{
+        padding: 0 70px 0 35px;
+    }
+   .privacy .privacy_in .custom {
+	   max-width: 34%;
+    }
+    .privacy .privacy_in .pri_right_border{
+        height: 250px;
+    }
+    .privacy .privacy_in .privacy_des{
+        padding-left: 0px;
+    }
+    .privacy .privacy_in .privacy_des p{
+        padding-bottom: 20px;
+    }
+    .privacy .privacy_in .privacy_des h5{
+        padding-bottom: 10px;
+    }
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive end
+    ***********************************************************************/
+    
+    /***************************************
+        Shop inner page Responsive start
+    ***************************************/
+    
+    .shop .sort{
+        margin-right: 0px;
+        width: 35%;
+    }
+    .shop{
+        margin-top: 30px;
+    }
+    .shop .listing_product{
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .shop .listing_product .product_box .model_image img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .shop .listing_product .pro_sec_gap{
+        margin-bottom: 30px;
+    }
+    .shop .listing_product .product_box .model_image{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .product_box .product_cap p{
+        padding-bottom: 5px;
+    }
+    .shop .listing_product .product_box .product_cap button{
+        padding: 7px 15px;
+        margin-bottom: 10px;
+    }
+    .shop_bg h2{
+        margin: 100px 0 !important;
+    }
+    .shop_bg{
+        margin-top: 20px;
+    }
+    
+    /***************************************
+        Shop inner page Responsive end
+    ***************************************/
+}
+
+@media only screen and (min-width: 641px) and (max-width: 767px){
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*** logo sec start ***/
+    
+    .outer .logo .serch_wishlist{
+        display: block;
+        padding-bottom: 0px;
+    }
+    .outer .logo .serch_wishlist .center_logo a img{
+        width: auto;
+    }
+    .outer .logo .serch_wishlist input#search-bar{
+        width: 100%;
+    }
+    .outer .logo .serch_wishlist .center_logo{
+        width: 100%;
+        top: -75px;
+        display: none;
+    }
+    .logo .serch_wishlist .serch{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .outer .logo .serch_wishlist .wishlist{
+        margin: 0px auto;
+        width: 100%;
+        padding: 17px 0;
+    }
+    .outer .logo .serch_wishlist .wishlist ul{
+        margin: 0px auto;
+        display: table;
+    }
+    .outer .logo .serch_wishlist .search-icon{
+        top: -30px;
+    }
+    .mobile_logo {
+        overflow: hidden;
+        float: left;
+        position: absolute;
+        top: -8px;
+    }
+    .mobile_logo img{
+        width: 85%;
+        float: left;
+    }
+    .outer .center_nav{
+        margin-bottom: 10px;
+    }
+    .mean-container .mean-nav{
+        margin-top: 56px;
+    }
+    
+    /*** logo sec end ***/
+    
+    /*** banner sec start ***/
+    
+    .top_banner{
+        background-position: left;
+    }
+    .top_banner .banner_cap{
+        padding-top: 225px;
+    }
+    .top_banner .banner_cap h6::after{
+        left: 46%;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** whsts new sec start ***/
+    .whats{
+        margin-top: 250px;
+    }
+    .whats h2{
+        padding-bottom: 20px;
+    }
+    .whats .padding_change{
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 20px;
+    }
+    .whats .padding_change:last-child{
+        padding: 0 15px;
+        margin-bottom: 20px;
+    }
+    .whats .nayan img{
+        width: 100%;
+    }
+    
+    .whats .nayan .caption_of_whats{
+        right: 0%;
+        padding-top: 210px;
+        background-color: rgba(0,0,0,0.2);
+        width: 100%;
+        height: 100%;
+    }
+    .whats .nayan img.baby{
+        margin-left: 0px;
+    }
+    .whats .nayan img.nibha{
+        margin-left: 0px;
+    }
+    .whats .nayan .caption_of_whats h5{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats p{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats span{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats.left_side{
+        right: 0%;
+    }
+    
+    /*** whats new sec end ***/
+    
+    /*** four model sec start ***/
+    
+    .four_model{
+        margin-top: 0px;
+    }
+    .right_padding{
+        margin-bottom: 20px;
+        padding: 0 15px !important;
+    }
+    .four_model .outer_area_model .image_box{
+        height: auto;
+        max-height: 406px;
+    }
+    
+    /*** four model sec end ***/
+    
+    /*** featured sec start ***/
+    
+    .featured{
+        margin-top: 10px;
+    }
+    .featured h2{
+        padding-bottom: 25px;
+    }
+    .featured .tarun{
+        max-width: 100% !important;
+        margin-left: 0px;
+    }
+    .featured .big_pic img{
+        width: auto;
+    }
+    .featured .fet_cap{
+        right: 0px;
+        background-color: rgba(0,0,0,0.4);
+        width: 95.3%;
+        height: 700px;
+        margin-right: 15px;
+        margin-left: 15px;
+        top: 0px;
+        text-align: center;
+        padding-top: 250px;
+    }
+    .featured .manish{
+        max-width: 100% !important;
+        padding:  0 15px !important;
+    }
+    .right_padding:last-child{
+        padding: 0 15px !important;
+    }
+    .featured .under_box .right_content{
+        right: 60px;
+    }
+    .featured .under_box:nth-child(2n) .right_content{
+        right: 80px;
+    }
+    .featured .fet_cap h5{
+        color: #fff;
+        width: 100%;
+    }
+    .featured .fet_cap p{
+        color: #fff;
+    }
+    .featured .fet_cap span{
+        color: #fff;
+    }
+    .featured .fet_cap a{
+        margin: 0px auto;
+    }
+    .featured .under_box .right_content h5{
+        font-size: 25px;
+    }
+    .featured .anita_image_box{
+        margin-left: 0px;
+        width: auto;
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+    .featured:last-child .anita_image_box{
+        margin-left: 0px;
+    }
+    
+    /*** featured sec end ***/
+    
+    /*** wedding sec start ***/
+    
+    .wedding{
+        margin-top: 0px;  
+    }
+    .wedding h2{
+        padding-bottom: 20px;
+    }
+    .wedding .wedding_bg .slick-next::before{
+        right: 12px;
+    }
+    .wedding .wedding_bg .slick-prev::before{
+        left: 12px;
+    }
+    .wedding .wedding_bg{
+        padding-bottom: 25px;
+    }
+    .wedding .wedding_bg ul li .wdding_slider_box:nth-child(2n){
+        margin-right: 0px
+    }
+    
+    /*** wedding sec end ***/
+    
+    /*** best seller sec start ***/
+    
+    .seller{
+        margin-top: 15px;
+    }
+    .seller h2{
+        padding-bottom: 7px;
+    }
+    .seller .product_des h5{
+        padding-top: 20px;
+    }
+    .seller .slick-next::before{
+        right: 12px;
+    }
+    .seller .slick-prev::before{
+        left: 12px;
+    }
+    .slick-dotted.slick-slider{
+        margin-bottom: 10px;
+    }
+    
+    /*** best seller sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        margin-top: 0px;
+    }
+    .blog h2{
+        padding-bottom: 30px;
+    }
+    .blog .blog_outer{
+        padding: 0px;
+    }
+    .blog .blog_outer .blog_content{
+        padding-top: 20px;
+    }
+    .blog .blog_outer .blog_content h5{
+        font-size: 16px;
+        text-align: center;
+    }
+    .blog .blog_outer .blog_content p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .blog .blog_outer .blog_image img{
+        height: auto;
+    }
+    .blog .blog_outer .blog_content a{
+        margin: 0px auto;
+        margin-bottom: 20px;
+    }
+    
+    /*** blog sec end ***/
+    
+    /*** insider sec start ***/
+    
+    .insider{
+        padding: 20px 0;
+    }
+    .insider h3{
+        font-size: 37px;
+        padding-bottom: 30px;
+    }
+    .insider .center_con{
+        width: 70%;
+    }
+    
+    /*** insider sec end ***/
+    
+    /*** sequre sec start ***/
+    
+    .sequre{
+        margin-top: 40px; 
+    }
+    .sequre .center{
+        padding: 0 0px;
+    }
+    .sequre .center p{
+        padding-right: 0px;
+        font-size: 15px;
+        width: 68%;
+        margin: 0px auto;
+    }
+    .sequre .center h5{
+        font-size: 19px;
+    }
+    .sequre .center .right_border{
+        border: none;
+    }
+    
+    
+    /*** sequre sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: 40px;
+        padding-bottom: 0px;
+    }
+    .footer .footer_con ul li:nth-child(2n){
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+    }
+    .footer .footer_con ul li:nth-child(3n){
+        width: 50%;
+        margin-left: 30px;
+    }
+    .footer .footer_con .quick ul li{
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .footer .footer_con h5.foll{
+        padding-left: 0px;
+    }
+    .footer .footer_con ul li ul li.social{
+        width: 5%;
+        margin: 0 10px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li ul li.social a{
+        margin-left: -10px;
+    }
+    .footer .footer_con ul li ul.follow{
+        padding-left: 0px;
+    }
+    .footer .footer_con{
+        overflow: hidden;
+        padding: 0 0px;
+    }
+    .footer .footer_con ul li.es{
+        width: 100%;
+    }
+    .footer .footer_con p{
+        padding-bottom: 20px;
+        width: 80%;
+    }
+    .footer .footer_con ul li.es img{
+        width: auto;
+    }
+    .footer .footer_con .poli{
+        width: 52%;
+    }
+    .footer .footer_con ul li.con .lo img{
+        padding-bottom: 0px;
+    }
+    .footer .footer_con .poli ul li{
+        width: 100%;
+        display: block;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li.con{
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li.con .lo p{
+        padding-bottom: 10px;
+    }
+    .footer .footer_con ul li:last-child{
+        
+    }
+    
+    /*** footer sec end ***/
+    
+    /************* POP UP **************/
+    
+    .popup_page{
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+        padding: 50px 40px 50px 40px !important;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail{
+        padding-left: 0px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .bottom_pro{
+        padding-top: 15px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .big_pro img{
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail .sold{
+        width: 100%;
+    }
+    
+    /************* POP UP **************/
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    .product{
+        margin-top: 20px;
+    }
+    .product .inner_pro{
+        padding: 0 15px;
+    }
+    .product .inner_pro .product_women .big_pro{
+        padding-bottom: 10px;
+    }
+    .product .inner_pro .product_women .big_pro img {
+	   width: 100%;
+	   height: auto;
+	   margin-left: 17px;
+    }
+    .product .inner_pro .product_women .small_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .product_women .small_pro{
+        display: inline-block;
+        width: 49%;
+    }
+    .product .inner_pro .right_pro_detail{
+        padding-left: 20px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.add_to_bag{
+        padding: 12px 21px;
+    }
+    .pro_des_con{
+        padding: 38px 0 0 38px;
+    }
+    .pro_des_con p{
+        width: 95%;
+    }
+    .product .inner_pro .right_pro_detail p{
+        width: 77%;
+    }
+    .product .inner_pro .right_pro_detail .share{
+        width: 100%;
+    }
+    .pro_des_con ul li{
+        width: 100% !important;
+    }
+    .product .inner_pro .right_pro_detail .share ul li a i.fa-twitter{
+        padding: 9px 8px;
+    }
+    .you{
+        margin-top: 60px;
+        padding-bottom: 70px;
+    }
+    .you h2{
+        padding: 43px 0;
+    }
+    .you .also_sli img{
+        width: 100%;
+    }
+    .pro_tab{
+        margin-left: 32px;
+        width: 92.5%;
+    }
+    .product .inner_pro .right_pro_detail .share p{
+        width: 42%;
+        text-align: right;
+        padding-right: 20px;
+    }
+    .pro_tab ul li{
+        width: 187.7px;
+    }
+    .product .inner_pro .product_women .bottom_pro{
+        margin-bottom: 10px;
+    }
+    .product .inner_pro .product_women .bottom_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail h2{
+        padding-top: 10px;
+    }
+    .you .slick-next::before{
+        display: none;
+    }
+    
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    
+    /*****************************************
+        About Us inner page responsive start
+    *****************************************/
+    
+    /*** about us sec start ***/
+    .about{
+        margin-top: 0px;
+    }
+    .about .about_in h3{
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .about .about_in p{
+        font-size: 16px;
+    }
+    .about .about_in{
+        padding: 0 0px;
+    }
+    .about .about_in a{
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .model{
+        padding-left: 15px !important;
+    }
+    .about .about_in .topright_model{
+        background-position: inherit;
+    }
+    
+    /*** about us sec end ***/
+    
+    /***m awsome sec start ***/
+    
+    .awsome{
+        margin-top: 25px;
+    }
+    .awsome h2{
+        padding-bottom: 18px;
+    }
+    .awsome .awsome_in{
+        padding: 0 15px;
+    }
+    .awsome .awsome_in ul li{
+        float: none;
+        width: 100%;
+    }
+    .awsome .awsome_in ul li .process_det{
+        margin-top: 15px;
+    }
+    .awsome .awsome_in ul li .process_det h6{
+        padding-bottom: 16px;
+        font-size: 27px;
+    }
+    .awsome .awsome_in ul li .process_det p{
+        width: 59%;
+        padding-bottom: 20px;
+    }
+    .awsome .awsome_in ul li .process_det h6::after{
+        right: 44%;
+        width: 60px;
+    }
+    .awsome .awsome_in ul li .process_icon::before{
+        display: none;
+    }
+    
+    /***m awsome sec end ***/
+    
+    /*** vison sec start ***/
+    
+    .vison{
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .vison .vison_in .vison_con h2{
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .vison .vison_in .vison_con{
+        padding-left: 15px;
+    }
+    .vison .vison_in .men_women{
+        width: 49.5%;
+    }
+    .vison .vison_in{
+        margin-left: 0px;
+    }
+    .vison .vison_in .men_women img{
+        
+    }
+    
+    /*** vison sec end ***/
+    
+    /****************************************
+        About Us inner page responsive end
+    *****************************************/
+    
+    /*******************************************
+        Contact us inner page responsive start
+    *******************************************/
+    
+    .contact_map{
+        margin-bottom: 15px;
+    }
+    .contact_form h2{
+        padding-bottom: 0px;
+    }
+    .contact_form{
+        margin-top: 0px;
+    }
+    .contact_form p{
+        width: 100%;
+        padding: 15px 0;
+    }
+    .contact_form .form_sec{
+        width: 83%;
+    }
+    .contact_form .form_sec ul li{
+        width: 49.5%;
+        margin-bottom: 10px;
+    }
+    .contact_form .form_sec ul li:last-child{
+        width: 100%;
+    }
+    .contact_form .form_sec ul li textarea{
+        width: 100%;
+        height: 85px;
+    }
+    .contact_form .form_sec button{
+        width: 100%;
+    }
+    .contact_form .form_sec button{
+        margin-bottom: 30px;
+    }
+    .contact_form .form_sec ul li input[type="text"]{
+        height: 38px;
+    }
+    .contact_form .form_sec ul li input[type="email"]{
+        height: 38px;
+    }
+    
+    /*******************************************
+        Contact us inner page responsive end
+    *******************************************/
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive start
+    ***********************************************************************/
+    
+    .privacy{
+        margin: 15px 0 50px 0;
+    }
+    .privacy .privacy_in{
+        padding: 0 25px 0 25px;
+    }
+   .privacy .privacy_in .custom {
+	   max-width: 100%;
+       margin-bottom: 20px;
+    }
+    .privacy .privacy_in .pri_right_border{
+        height: auto;
+        border-right: 0px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+    .privacy .privacy_in .privacy_des{
+        padding-left: 0px;
+    }
+    .privacy .privacy_in .privacy_des p{
+        padding-bottom: 20px;
+    }
+    .privacy .privacy_in .privacy_des h5{
+        padding-bottom: 10px;
+    }
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive end
+    ***********************************************************************/
+    
+    /***************************************
+        Shop inner page Responsive start
+    ***************************************/
+    
+    .shop{
+        margin-top: 30px;
+    }
+    .shop .listing_product{
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .shop .listing_product .product_box .model_image img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .shop .listing_product .pro_sec_gap{
+        margin-bottom: 0px;
+    }
+    .shop .listing_product .product_box .model_image{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .product_box .product_cap p{
+        padding-bottom: 5px;
+    }
+    .shop .listing_product .product_box .product_cap button{
+        padding: 7px 15px;
+        margin-bottom: 10px;
+    }
+    .shop_bg h2{
+        margin: 100px 0 !important;
+    }
+    .shop_bg{
+        margin-top: 20px;
+    }
+    .shop .sort{
+        margin-right: 0px;
+        width: 40%;
+        float: left;
+    }
+    .shop .listing_product .left_fix_category{
+        width: 100%;
+    }
+    .shop .listing_product h3{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .price-range-block{
+        width: 100%;
+    }
+    .shop .listing_product .price-range-block h3{
+        padding: 15px 0;
+    }
+    .shop .listing_product .price-range-block .price-range-field{
+        width: 20%;
+    }
+    .price_min_to_max{
+        margin: 20p 0;
+    }
+    .shop .listing_product .price-range-block button{
+        margin-bottom: 15px;
+    }
+    .shop .listing_product .pro_right_gap{
+        padding: 0 15px 15px 15px;
+    }
+    
+    /***************************************
+        Shop inner page Responsive end
+    ***************************************/
+    
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*** logo sec start ***/
+    
+    .outer{
+        height: auto;
+    }
+    .outer .logo{
+        padding-top: 20px;
+    }
+    .outer .logo .serch_wishlist{
+        display: block;
+        padding-bottom: 0px;
+    }
+    .outer .logo .serch_wishlist .center_logo a img{
+        width: auto;
+    }
+    .outer .logo .serch_wishlist input#search-bar{
+        width: 100%;
+    }
+    .outer .logo .serch_wishlist .center_logo{
+        width: 100%;
+        top: -75px;
+        display: none;
+    }
+    .logo .serch_wishlist .serch{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .outer .logo .serch_wishlist .wishlist{
+        margin: 0px auto;
+        width: 100%;
+        padding: 15px 0;
+    }
+    .outer .logo .serch_wishlist .wishlist ul{
+        margin: 0px auto;
+        display: table;
+    }
+    .outer .logo .serch_wishlist .search-icon{
+        top: -30px;
+    }
+    .mobile_logo {
+        overflow: hidden;
+        float: left;
+        position: absolute;
+        top: 2px;
+    }
+    .mobile_logo img {
+	   width: 65%;
+	   float: left;
+    }
+    .mean-container .mean-nav{
+        margin-top: 47px;
+    }
+    
+    /*** logo sec end ***/
+    
+    /*** banner sec start ***/
+    
+    .top_banner{
+        background-position: left;
+    }
+    .top_banner .banner_cap{
+        padding-top: 225px;
+    }
+    .top_banner .banner_cap h6::after{
+        left: 46%;
+    }
+    .top_banner .banner_cap a{
+        margin-bottom: 80px;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** whsts new sec start ***/
+    .whats{
+        margin-top: -30px;
+    }
+    .whats h2{
+        padding-bottom: 20px;
+    }
+    .whats .padding_change{
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 20px;
+    }
+    .whats .padding_change:last-child{
+        padding: 0 15px;
+        margin-bottom: 20px;
+    }
+    .whats .nayan img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .whats .nayan .caption_of_whats{
+        right: 0%;
+        padding-top: 110px;
+        background-color: rgba(0,0,0,0.2);
+        width: 100%;
+        height: 100%;
+    }
+    .whats .nayan img.baby{
+        margin-left: 0px;
+    }
+    .whats .nayan img.nibha{
+        margin-left: 0px;
+    }
+    .whats .nayan .caption_of_whats h5{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats p{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats span{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats.left_side{
+        right: 0%;
+        padding-top: 90px;
+    }
+    
+    /*** whats new sec end ***/
+    
+    /*** four model sec start ***/
+    
+    .four_model{
+        margin-top: 0px;
+    }
+    .right_padding{
+        margin-bottom: 20px;
+        padding: 0 15px !important;
+    }
+    .four_model .outer_area_model .image_box{
+        height: auto;
+    }
+    
+    /*** four model sec end ***/
+    
+    /*** featured sec start ***/
+    
+    .featured{
+        margin-top: 5px;
+    }
+    .featured h2{
+        padding-bottom: 20px;
+    }
+    .featured .under_box .small_pic img{
+        width: auto;
+        opacity: 0.7;
+    }
+    .featured .tarun{
+        max-width: 100% !important;
+        margin-left: 0px;
+    }
+    .featured .big_pic img{
+        width: auto;
+    }
+    .featured .fet_cap{
+        right: 0px;
+        background-color: rgba(0,0,0,0.4);
+        width: 93.5%;
+        height: 700px;
+        margin-right: 15px;
+        margin-left: 15px;
+        top: 0px;
+        text-align: center;
+        padding-top: 250px;
+    }
+    .featured .manish{
+        max-width: 100% !important;
+        padding:  0 15px !important;
+    }
+    .right_padding:last-child{
+        padding: 0 15px !important;
+    }
+    .featured .under_box .right_content{
+        right: 30%;
+    }
+    .featured .under_box:nth-child(2n) .right_content{
+        right: 35%;
+    }
+    .featured .fet_cap h5{
+        color: #fff;
+        width: 100%;
+    }
+    .featured .fet_cap p{
+        color: #fff;
+    }
+    .featured .fet_cap span{
+        color: #fff;
+    }
+    .featured .fet_cap a{
+        margin: 0px auto;
+    }
+    .featured .under_box .right_content h5{
+        font-size: 21px;
+        color: #fff;
+        text-align: center;
+    }
+    .featured .under_box .right_content p{
+        text-align: center;
+        color: #fff;
+    }
+    .featured .under_box .right_content span{
+        text-align: center;
+        color: #fff;
+    }
+    .featured .under_box .right_content a{
+        margin: 0px auto;
+    }
+    .featured .anita_image_box{
+        margin-left: 0px;
+        width: auto;
+    }
+    .featured:last-child .anita_image_box{
+        margin-left: 0px;
+    }
+    .featured .under_box .small_pic{
+        background: #111;
+    }
+    
+    /*** featured sec end ***/
+    
+    /*** wedding sec start ***/
+    
+    .wedding{
+        margin-top: 0px;  
+    }
+    .wedding h2{
+        padding-bottom: 30px;
+        font-size: 27px;
+    }
+    .wedding .wedding_bg .slick-next::before{
+        display: none;
+    }
+    .wedding .wedding_bg .slick-prev::before{
+        display: none;
+    }
+    .wedding .wedding_bg{
+        padding: 30px 0;
+    }
+    .wedding .wedding_bg ul li .wdding_slider_box{
+        margin-right: 0px;
+        height: auto;
+    }
+    /*** wedding sec end ***/
+    
+    /*** best seller sec start ***/
+    
+    .seller{
+        margin-top: 15px;
+    }
+    .seller h2{
+        padding-bottom: 0px;
+    }
+    .seller .product_des h5{
+        padding-top: 20px;
+    }
+    .seller .slick-next::before{
+        display: none;
+    }
+    .seller .slick-prev::before{
+        display: none;
+    }
+    .seller .product img{
+        width: 100%;
+    }
+    .seller .product{
+        margin-right: 0px;
+    }
+    
+    /*** best seller sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        margin-top: 10px;
+    }
+    .blog h2{
+        padding-bottom: 20px;
+    }
+    .blog .blog_outer{
+        padding: 0px;
+    }
+    .blog .blog_outer .blog_content{
+        padding-top: 20px;
+    }
+    .blog .blog_outer .blog_content h5{
+        font-size: 16px;
+        text-align: center;
+    }
+    .blog .blog_outer .blog_content p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .blog .blog_outer .blog_image img{
+        height: auto;
+    }
+    .blog .blog_outer .blog_content a{
+        margin: 0px auto;
+        margin-bottom: 20px;
+    }
+    
+    /*** blog sec end ***/
+    
+    /*** insider sec start ***/
+    
+    .insider{
+        padding: 15px 0;
+    }
+    .insider h3{
+        font-size: 28px;
+        padding-bottom: 30px;
+    }
+    .insider .center_con{
+        width: 85%;
+    }
+    
+    /*** insider sec end ***/
+    
+    /*** sequre sec start ***/
+    
+    .sequre{
+        margin-top: 40px; 
+    }
+    .sequre .center{
+        padding: 0 0px;
+    }
+    .sequre .center p{
+        padding-right: 0px;
+        font-size: 15px;
+        width: 68%;
+        margin: 0px auto;
+    }
+    .sequre .center h5{
+        font-size: 19px;
+    }
+    .sequre .center .right_border{
+        border: none;
+    }
+    
+    
+    /*** sequre sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: 40px;
+        padding-bottom: 0px;
+    }
+    .footer .footer_con ul li:nth-child(2n){
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+    }
+    .footer .footer_con ul li:nth-child(3n){
+        width: 86%;
+        margin-left: 30px;
+    }
+    .footer .footer_con .quick ul li{
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .footer .footer_con h5.foll{
+        padding-left: 0px;
+    }
+    .footer .footer_con ul li ul li.social{
+        width: 5%;
+        margin: 0 10px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li ul li.social a{
+        margin-left: -10px;
+    }
+    .footer .footer_con ul li ul.follow{
+        padding-left: 0px;
+    }
+    .footer .footer_con{
+        overflow: hidden;
+        padding: 0 0px;
+    }
+    .footer .footer_con ul li.es{
+        width: 100%;
+        margin-right: 0px;
+    }
+    .footer .footer_con p{
+        padding-bottom: 20px;
+        width: 80%;
+    }
+    .footer .footer_con ul li.es img{
+        width: auto;
+    }
+    .footer .footer_con .poli{
+        width: 52%;
+    }
+    .footer .footer_con ul li.con .lo img{
+        padding-bottom: 0px;
+    }
+    .footer .footer_con .poli ul li{
+        width: 100%;
+        display: block;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li.con{
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li.con .lo p{
+        padding-bottom: 10px;
+    }
+    .footer .footer_con ul li:last-child{
+        
+    }
+    
+    /*** footer sec end ***/
+    
+    /************* POP UP **************/
+    
+    .popup_page{
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+        padding: 50px 40px 50px 40px !important;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail{
+        padding-left: 0px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .bottom_pro{
+        padding-top: 15px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .big_pro img{
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail .sold{
+        width: 100%;
+    }
+    
+    /************* POP UP **************/
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    .product{
+        margin-top: 20px;
+    }
+    .product .inner_pro{
+        padding: 0 15px;
+    }
+    .product .inner_pro .product_women .big_pro{
+        padding-bottom: 10px;
+    }
+    .product .inner_pro .product_women .big_pro img {
+	   width: 100%;
+	   height: auto;
+	   margin-left: 17px;
+    }
+    .product .inner_pro .product_women .small_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .product_women .small_pro{
+        display: inline-block;
+        width: 49%;
+    }
+    .product .inner_pro .right_pro_detail{
+        padding-left: 0px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.add_to_bag{
+        padding: 12px 21px;
+    }
+    .pro_des_con{
+        padding: 25px 0 0 25px;
+    }
+    .pro_des_con p{
+        width: 94%;
+    }
+    .product .inner_pro .right_pro_detail p{
+        width: 77%;
+    }
+    .product .inner_pro .right_pro_detail .share{
+        width: 100%;
+    }
+    .pro_des_con ul li{
+        width: 100% !important;
+    }
+    .product .inner_pro .right_pro_detail .share ul li a i.fa-twitter{
+        padding: 9px 8px;
+    }
+    .you{
+        margin-top: 40px;
+        padding-bottom: 40px;
+    }
+    .you h2{
+        padding: 28px 0;
+    }
+    .you .also_sli img{
+        width: 100%;
+    }
+    .pro_tab{
+        margin-left: 15px;
+        width: 94%;
+        padding-bottom: 25px;
+    }
+    .product .inner_pro .right_pro_detail .share p{
+        width: 42%;
+        text-align: right;
+        padding-right: 20px;
+    }
+    .pro_tab ul li{
+        width: 140.6px;
+    }
+    .pro_tab ul li a{
+        font-size: 15px;
+    }
+    .product .inner_pro .product_women .bottom_pro{
+        margin-bottom: 10px;
+    }
+    .product .inner_pro .product_women .bottom_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail h2{
+        padding-top: 10px;
+    }
+    .you .slick-next::before{
+        display: none;
+    }
+    .you .also_des{
+        padding-left: 25px;
+    }
+    
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    
+    /*****************************************
+        About Us inner page responsive start
+    *****************************************/
+    
+    /*** about us sec start ***/
+    .about{
+        margin-top: 0px;
+    }
+    .about .about_in h3{
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .about .about_in p{
+        font-size: 16px;
+    }
+    .about .about_in{
+        padding: 0 0px;
+    }
+    .about .about_in a{
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .model{
+        padding-left: 15px !important;
+    }
+    .about .about_in .topright_model{
+        background-position: inherit;
+    }
+    
+    /*** about us sec end ***/
+    
+    /***m awsome sec start ***/
+    
+    .awsome{
+        margin-top: 25px;
+    }
+    .awsome h2{
+        padding-bottom: 18px;
+    }
+    .awsome .awsome_in{
+        padding: 0 15px;
+    }
+    .awsome .awsome_in ul li{
+        float: none;
+        width: 100%;
+    }
+    .awsome .awsome_in ul li .process_det{
+        margin-top: 15px;
+    }
+    .awsome .awsome_in ul li .process_det h6{
+        padding-bottom: 16px;
+        font-size: 27px;
+    }
+    .awsome .awsome_in ul li .process_det p{
+        width: 85%;
+        padding-bottom: 20px;
+    }
+    .awsome .awsome_in ul li .process_det h6::after{
+        right: 43%;
+        width: 50px;
+    }
+    .awsome .awsome_in ul li .process_icon::before{
+        display: none;
+    }
+    
+    /***m awsome sec end ***/
+    
+    /*** vison sec start ***/
+    
+    .vison{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .vison .vison_in .vison_con h2{
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .vison .vison_in .vison_con{
+        padding-left: 15px;
+    }
+    .vison .vison_in .men_women{
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .vison .vison_in .men_women:last-child{
+        margin-bottom: 0px;
+    }
+    .vison .vison_in .vison_con p{
+        width: 95%;
+    }
+    .vison .vison_in{
+        margin-left: 0px;
+    }
+    .vison .vison_in .men_women img{
+        width: 100%;
+    }
+    
+    /*** vison sec end ***/
+    
+    /****************************************
+        About Us inner page responsive end
+    *****************************************/
+    
+    /*******************************************
+        Contact us inner page responsive start
+    *******************************************/
+    
+    .contact_map{
+        margin-bottom: 15px;
+    }
+    .contact_form h2{
+        padding-bottom: 0px;
+    }
+    .contact_form{
+        margin-top: 0px;
+    }
+    .contact_form p{
+        width: 100%;
+        padding: 15px 0;
+    }
+    .contact_form .form_sec{
+        width: 95%;
+    }
+    .contact_form .form_sec ul li{
+        width: 100%;
+        margin-bottom: 7px;
+        float: none;
+    }
+    .contact_form .form_sec ul li:last-child{
+        width: 100%;
+    }
+    .contact_form .form_sec ul li textarea{
+        width: 100%;
+        height: 90px;
+    }
+    .contact_form .form_sec button{
+        width: 100%;
+    }
+    .contact_form .form_sec button{
+        margin-bottom: 25px;
+    }
+    .contact_form .form_sec ul li input[type="text"]{
+        height: 35px;
+    }
+    .contact_form .form_sec ul li input[type="email"]{
+        height: 35px;
+    }
+    
+    /*******************************************
+        Contact us inner page responsive end
+    *******************************************/
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive start
+    ***********************************************************************/
+    
+    .privacy{
+        margin: 0px 0 30px 0;
+    }
+    .privacy .privacy_in{
+        padding: 0 15px 0 15px;
+    }
+   .privacy .privacy_in .custom {
+	   max-width: 100%;
+       margin-bottom: 20px;
+    }
+    .privacy .privacy_in .pri_right_border{
+        height: auto;
+        border-right: 0px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+    .privacy .privacy_in .privacy_des{
+        padding-left: 0px;
+    }
+    .privacy .privacy_in .privacy_des p{
+        padding-bottom: 20px;
+    }
+    .privacy .privacy_in .privacy_des h5{
+        padding-bottom: 10px;
+    }
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive end
+    ***********************************************************************/
+    
+    /***************************************
+        Shop inner page Responsive start
+    ***************************************/
+    
+    .shop{
+        margin-top: 15px;
+    }
+    .shop .listing_product{
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .shop .listing_product .product_box .model_image img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .shop .listing_product .pro_sec_gap{
+        margin-bottom: 0px;
+    }
+    .shop .listing_product .product_box .model_image{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .product_box .product_cap p{
+        padding-bottom: 5px;
+    }
+    .shop .listing_product .product_box .product_cap button{
+        padding: 7px 15px;
+        margin-bottom: 10px;
+    }
+    .shop_bg h2{
+        margin: 80px 0 !important;
+        padding-left: 0px;
+        padding-bottom: 15px;
+    }
+    .shop_bg h2::after{
+        left: 0px;
+    }
+    .shop_bg{
+        margin-top: 20px;
+    }
+    .shop .sort{
+        margin-right: 0px;
+        width: 55%;
+        float: left;
+    }
+    .shop .listing_product .left_fix_category{
+        width: 100%;
+    }
+    .shop .listing_product h3{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .price-range-block{
+        width: 100%;
+    }
+    .shop .listing_product .price-range-block h3{
+        padding: 15px 0;
+    }
+    .shop .listing_product .price-range-block .price-range-field{
+        width: 20%;
+    }
+    .price_min_to_max{
+        margin: 20p 0;
+    }
+    .shop .listing_product .price-range-block button{
+        margin-bottom: 15px;
+    }
+    .shop .listing_product .pro_right_gap{
+        padding: 0 15px 15px 15px;
+    }
+    
+    /***************************************
+        Shop inner page Responsive end
+    ***************************************/
+    
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*** logo sec start ***/
+    
+    .outer{
+        height: auto;
+    }
+    .outer .logo{
+        padding-top: 17px;
+    }
+    .outer .logo .serch_wishlist{
+        display: block;
+        padding-bottom: 0px;
+    }
+    .outer .logo .serch_wishlist .center_logo a img{
+        width: auto;
+    }
+    .outer .logo .serch_wishlist input#search-bar{
+        width: 100%;
+    }
+    .outer .logo .serch_wishlist .center_logo{
+        width: 100%;
+        top: -75px;
+        display: none;
+    }
+    .logo .serch_wishlist .serch{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .outer .logo .serch_wishlist .wishlist{
+        margin: 0px auto;
+        width: 100%;
+        padding: 17px 0;
+        left: 0%;
+    }
+    .outer .logo .serch_wishlist .wishlist ul{
+        margin: 0px auto;
+        display: table;
+    }
+    .outer .logo .serch_wishlist .search-icon{
+        top: -30px;
+    }
+    .outer .logo .serch_wishlist .wishlist ul li:nth-child(2n){
+        padding-right: 0px;
+    }
+    .outer .logo .serch_wishlist .wishlist ul li:nth-child(3n){
+        padding-left: 20px;
+    }
+    .mobile_logo {
+        overflow: hidden;
+        float: left;
+        position: absolute;
+        top: 2px;
+    }
+    .mobile_logo img {
+	   width: 65%;
+	   float: left;
+    }
+    .mean-container .mean-nav{
+        margin-top: 47px;
+    }
+  
+    
+    /*** logo sec end ***/
+    
+    /*** banner sec start ***/
+    
+    .top_banner{
+        background-position: left;
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+    .top_banner .banner_cap{
+        padding-top: 80px;
+    }
+    .top_banner .banner_cap a{
+        margin-bottom: 47px;
+    }
+    .top_banner .banner_cap h6::after{
+        left: 46%;
+    }
+   
+    .top_banner .banner_cap h1{
+        
+        font-size: 32px;
+    }
+    .top_banner .banner_cap a{
+        padding: 5px 16px;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** whsts new sec start ***/
+    .whats{
+        margin-top: 15px;
+    }
+    .whats h2{
+        padding-bottom: 15px;
+    }
+    .whats .padding_change{
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 20px;
+    }
+    .whats .padding_change:last-child{
+        padding: 0 15px;
+        margin-bottom: 20px;
+    }
+    .whats .nayan .caption_of_whats a{
+        padding: 6px 20px;
+    }
+    .whats .nayan .caption_of_whats{
+        right: 0%;
+        padding-top: 210px;
+        background-color: rgba(0,0,0,0.2);
+        width: 100%;
+        height: 100%;
+    }
+    .whats .nayan img.baby{
+        margin-left: -340px;
+    }
+    .whats .nayan img.nibha{
+        margin-left: -305px;
+    }
+    .whats .nayan .caption_of_whats h5{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats p{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats span{
+        color: #fff;
+    }
+    .whats .nayan .caption_of_whats.left_side{
+        right: 0%;
+    }
+    
+    /*** whats new sec end ***/
+    
+    /*** four model sec start ***/
+    
+    .four_model{
+        margin-top: 0px;
+    }
+    .right_padding{
+        margin-bottom: 20px;
+        padding: 0 15px !important;
+    }
+    .four_model .outer_area_model .image_box{
+        height: auto;
+    }
+    .four_model .outer_area_model .cap_box a{
+        padding: 5px 28px;
+    }
+    
+    /*** four model sec end ***/
+    
+    /*** featured sec start ***/
+    
+    .featured{
+        margin-top: 0px;
+    }
+    .featured h2{
+        padding-bottom: 20px;
+        font-size: 26px;
+    }
+    .featured .tarun{
+        max-width: 100% !important;
+        margin-left: 0px;
+    }
+    .featured .big_pic img{
+        width: 100%;
+        opacity: 0.7;
+    }
+    .featured .fet_cap{
+        right: 0px;
+        background-color: rgba(0,0,0,0.4);
+        width: 95.3%;
+        height: 700px;
+        margin-right: 15px;
+        margin-left: 15px;
+        top: 0px;
+        text-align: center;
+        padding-top: 65px;
+    }
+    .featured .manish{
+        max-width: 100% !important;
+        padding:  0 15px !important;
+    }
+    .right_padding:last-child{
+        padding: 0 15px !important;
+    }
+    .featured .under_box .right_content{
+        right: 13%;
+    }
+    .featured .under_box:nth-child(2n) .right_content{
+        right: 20%;
+    }
+    .featured .under_box:first-child .right_content{
+        padding-top: 160px;
+    }
+    .featured .fet_cap h5{
+        color: #fff !important;
+        width: 100%;
+        font-size: 24px;
+        line-height: 26px
+    }
+    .featured .fet_cap p{
+        color: #fff !important;
+    }
+    .featured .fet_cap span{
+        color: #fff !important;
+    }
+    .featured .fet_cap a{
+        margin: 0px auto;
+        padding: 6.5px 21px;
+    }
+    .featured .under_box .right_content h5{
+        font-size: 24px;
+        color: #fff;
+        text-align: center;
+    }
+    .featured .under_box .right_content p{
+        text-align: center;
+        color: #fff;
+    }
+    .featured .under_box .right_content span{
+        text-align: center;
+        color: #fff;
+    }
+    .featured .under_box .right_content a{
+        padding: 6.5px 21px;
+        margin: 0px auto;
+    }
+    .featured .anita_image_box{
+        margin-left: 0px;
+        width: auto;
+    }
+    .featured:last-child .anita_image_box{
+        margin-left: 0px;
+    }
+    .featured .anita_cap h5{
+        font-size: 21px;
+    }
+    .featured .big_pic{
+        height: 100%;
+        background: #000000;
+    }
+    .featured .under_box .small_pic{
+        background: #000000;
+    }
+    .featured .under_box .small_pic img{
+        opacity: 0.8;
+    }
+    /*** featured sec end ***/
+    
+    /*** wedding sec start ***/
+    
+    .wedding{
+        margin-top: 0px;  
+    }
+    .wedding h2{
+        padding-bottom: 30px;
+        font-size: 27px;
+    }
+    .wedding .wedding_bg .slick-next::before{
+        display: none;
+    }
+    .wedding .wedding_bg .slick-prev::before{
+        display: none;
+    }
+    .wedding .wedding_bg{
+        padding: 30px 0;
+    }
+    .wedding .wedding_bg ul li:nth-child(2n) .wdding_slider_box{
+        margin-right: 0px;
+    }
+    .wedding .wedding_bg ul li .wdding_slider_box{
+        margin-right: 0px;
+        height: auto;
+    }
+    
+    /*** wedding sec end ***/
+    
+    /*** best seller sec start ***/
+    
+    .seller{
+        margin-top: 30px;
+    }
+    .seller h2{
+        padding-bottom: 30px;
+    }
+    .seller .product_des h5{
+        padding-top: 20px;
+    }
+    .seller .slick-next::before{
+        display: none;
+    }
+    .seller .slick-prev::before{
+        display: none;
+    }
+    .seller .product img{
+        width: 100%;
+    }
+    .seller .product{
+        margin-right: 0px;
+    }
+    
+    /*** best seller sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        margin-top: 40px;
+    }
+    .blog h2{
+        padding-bottom: 30px;
+    }
+    .blog .blog_outer{
+        padding: 0px;
+    }
+    .blog .blog_outer .blog_content{
+        padding-top: 20px;
+    }
+    .blog .blog_outer .blog_content h5{
+        font-size: 16px;
+        text-align: center;
+    }
+    .blog .blog_outer .blog_content p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .blog .blog_outer .blog_image img{
+        height: auto;
+    }
+    .blog .blog_outer .blog_content a{
+        margin: 0px auto;
+        margin-bottom: 20px;
+    }
+    .blog .blog_outer .blog_image{
+        height: auto;
+    }
+    
+    /*** blog sec end ***/
+    
+    /*** insider sec start ***/
+    
+    .insider{
+        padding: 30px 0;
+    }
+    .insider h3{
+        font-size: 25px;
+        padding-bottom: 30px;
+    }
+    .insider .center_con{
+        width: 100%;
+    }
+    .insider .center_con ul li input[type="email"]{
+        width: 68%;
+        padding-left: 5px;
+    }
+    .insider .center_con ul li button{
+        padding: 7px 25px;
+    }
+    
+    /*** insider sec end ***/
+    
+    /*** sequre sec start ***/
+    
+    .sequre{
+        margin-top: 40px; 
+    }
+    .sequre .center{
+        padding: 0 0px;
+    }
+    .sequre .center p{
+        padding-right: 0px;
+        font-size: 15px;
+        width: 100%;
+        margin: 0px auto;
+    }
+    .sequre .center h5{
+        font-size: 19px;
+        padding-bottom: 15px;
+    }
+    .sequre .center .right_border{
+        border: none;
+    }
+    
+    
+    /*** sequre sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: 40px;
+        padding-bottom: 0px;
+    }
+    .footer .footer_con ul li:nth-child(2n){
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li:nth-child(3n){
+        width: 100%;
+        margin-left: 0px;
+    }
+    .footer .footer_con .quick ul li{
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .footer .footer_con h5.foll{
+        padding-left: 0px;
+    }
+    .footer .footer_con ul li ul li.social{
+        width: 5%;
+        margin: 0 10px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li ul li.social a{
+        margin-left: -10px;
+    }
+    .footer .footer_con ul li ul.follow{
+        padding-left: 0px;
+    }
+    .footer .footer_con{
+        overflow: hidden;
+        padding: 0 0px;
+    }
+    .footer .footer_con ul li.es{
+        width: 100%;
+        margin-right: 0px;
+    }
+    .footer .footer_con p{
+        padding-bottom: 20px;
+        width: 100%;
+        padding-left: 0px;
+    }
+    .footer .footer_con ul li.es img{
+        width: auto;
+        display: flex;
+        align-content: center;
+        align-items: center;
+    }
+    .footer .footer_con .quick{
+        width: 100%;
+        float: none;
+    }
+    .footer .footer_con .poli{
+        width: 100%;
+    }
+    .footer .footer_con ul li.con .lo img{
+        padding-bottom: 0px;
+    }
+    .footer .footer_con .poli ul li{
+        width: 100%;
+        display: block;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li.con{
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_con ul li.con .lo p{
+        padding-bottom: 10px;
+    }
+    .footer .footer_con ul li:last-child{
+        
+    }
+    
+    /*** footer sec end ***/
+    
+    /************* POP UP **************/
+    
+    .popup_page{
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+        padding: 50px 40px 50px 40px !important;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail{
+        padding-left: 0px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .bottom_pro{
+        padding-top: 15px;
+    }
+    .product .inner_pro.popup_inner_pro .product_women .big_pro img{
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail.popup_right_pro_detail .sold{
+        width: 100%;
+    }
+    
+    /************* POP UP **************
+    
+    /*******************************
+        Home page responsive start
+    ********************************/
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    .product{
+        margin-top: 20px;
+    }
+    .product .inner_pro{
+        padding: 0 15px;
+    }
+    .product .inner_pro .product_women .big_pro{
+        padding-bottom: 10px;
+    }
+    .product .inner_pro .product_women .big_pro img {
+	   width: 100%;
+	   height: auto;
+	   margin-left: 17px;
+    }
+    .product .inner_pro .product_women .small_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .product_women .small_pro{
+        display: inline-block;
+        width: 49%;
+    }
+    .product .inner_pro .right_pro_detail{
+        padding-left: 0px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.add_to_bag{
+        padding: 12px 21px;
+    }
+    .pro_des_con{
+        padding: 25px 0 0 25px;
+    }
+    .pro_des_con p{
+        width: 94%;
+    }
+    .product .inner_pro .right_pro_detail p{
+        width: 77%;
+    }
+    .product .inner_pro .right_pro_detail .share{
+        width: 100%;
+    }
+    .pro_des_con ul li{
+        width: 100% !important;
+    }
+    .product .inner_pro .right_pro_detail .share ul li a i.fa-twitter{
+        padding: 9px 8px;
+    }
+    .you{
+        margin-top: 40px;
+        padding-bottom: 40px;
+    }
+    .you h2{
+        padding: 28px 0;
+        font-size: 32px;
+    }
+    .you .also_sli img{
+        width: 100%;
+    }
+    .pro_tab{
+        margin-left: 15px;
+        width: 94%;
+        padding-bottom: 25px;
+    }
+    .product .inner_pro .right_pro_detail .share p{
+        width: 39%;
+        text-align: right;
+        padding-right: 20px;
+    }
+    .pro_tab ul li{
+        width: 100%;
+    }
+    .pro_tab ul li a{
+        font-size: 15px;
+    }
+    .product .inner_pro .product_women .bottom_pro{
+        margin-bottom: 10px;
+    }
+    .product .inner_pro .product_women .bottom_pro img{
+        width: 100%;
+        height: auto;
+    }
+    .product .inner_pro .right_pro_detail h2{
+        padding-top: 10px;
+    }
+    .you .slick-next::before{
+        display: none;
+    }
+    .you .also_des{
+        padding-left: 25px;
+    }
+    .product .inner_pro .right_pro_detail ul.select_size li a{
+        padding: 8px 22.3px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart{
+        width: 100%;
+        display: block;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.add_to_bag{
+        display: block;
+        float: none;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    .product .inner_pro .right_pro_detail .add_cart a.shop_NOW{
+        display: block;
+    }
+    
+    
+    /*************************************************
+        Product Detail inner page responsive start
+    *************************************************/
+    
+    
+    /*****************************************
+        About Us inner page responsive start
+    *****************************************/
+    
+    /*** about us sec start ***/
+    .about{
+        margin-top: 0px;
+    }
+    .about .about_in h3{
+        padding-bottom: 10px;
+        padding-top: 15px;
+    }
+    .about .about_in p{
+        font-size: 16px;
+    }
+    .about .about_in{
+        padding: 0 0px;
+    }
+    .about .about_in a{
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .model{
+        padding-left: 15px !important;
+    }
+    .about .about_in .topright_model{
+        background-position: top;
+        height: 450px;
+    }
+    
+    /*** about us sec end ***/
+    
+    /***m awsome sec start ***/
+    
+    .awsome{
+        margin-top: 17px;
+    }
+    .awsome h2{
+        padding-bottom: 18px;
+        font-size: 29px;
+    }
+    .awsome .awsome_in{
+        padding: 0 0px;
+    }
+    .awsome .awsome_in ul li{
+        float: none;
+        width: 100%;
+    }
+    .awsome .awsome_in ul li .process_det{
+        margin-top: 15px;
+    }
+    .awsome .awsome_in ul li .process_det h6{
+        padding-bottom: 16px;
+        font-size: 24px;
+    }
+    .awsome .awsome_in ul li .process_det p{
+        width: 98%;
+        padding-bottom: 20px;
+    }
+    .awsome .awsome_in ul li .process_det h6::after{
+        right: 43%;
+        width: 50px;
+    }
+    .awsome .awsome_in ul li .process_icon::before{
+        display: none;
+    }
+    
+    /***m awsome sec end ***/
+    
+    /*** vison sec start ***/
+    
+    .vison{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .vison .vison_in .vison_con h2{
+        padding-top: 25px;
+        padding-bottom: 15px;
+        font-size: 29px;
+    }
+    .vison .vison_in .vison_con{
+        padding-left: 0px;
+    }
+    .vison .vison_in .men_women{
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .vison .vison_in .men_women:last-child{
+        margin-bottom: 0px;
+    }
+    .vison .vison_in .vison_con p{
+        width: 95%;
+    }
+    .vison .vison_in{
+        margin-left: 0px;
+    }
+    .vison .vison_in .men_women img{
+        width: 100%;
+    }
+    
+    /*** vison sec end ***/
+    
+    /****************************************
+        About Us inner page responsive end
+    *****************************************/
+    
+    /*******************************************
+        Contact us inner page responsive start
+    *******************************************/
+    
+    .contact_map{
+        margin-bottom: 15px;
+    }
+    .contact_form h2{
+        padding-bottom: 0px;
+        font-size: 28px;
+    }
+    .contact_form{
+        margin-top: 0px;
+    }
+    .contact_form p{
+        width: 100%;
+        padding: 15px 0;
+    }
+    .contact_form .form_sec{
+        width: 100%;
+    }
+    .contact_form .form_sec ul li{
+        width: 100%;
+        margin-bottom: 7px;
+        float: none;
+    }
+    .contact_form .form_sec ul li:last-child{
+        width: 100%;
+    }
+    .contact_form .form_sec ul li textarea{
+        width: 100%;
+        height: auto;
+    }
+    .contact_form .form_sec button{
+        width: 100%;
+    }
+    .contact_form .form_sec button{
+        margin-bottom: 20px;
+    }
+    .contact_form .form_sec ul li input[type="text"]{
+        height: 33px;
+    }
+    .contact_form .form_sec ul li input[type="email"]{
+        height: 33px;
+    }
+    
+    /*******************************************
+        Contact us inner page responsive end
+    *******************************************/
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive start
+    ***********************************************************************/
+    
+    .privacy{
+        margin: 23px 0 30px 0;
+    }
+    .privacy .privacy_in{
+        padding: 0 15px 0 15px;
+    }
+   .privacy .privacy_in .custom {
+	   max-width: 100%;
+       margin-bottom: 20px;
+    }
+    .privacy .privacy_in .pri_right_border{
+        height: auto;
+        border-right: 0px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+    .privacy .privacy_in .privacy_des{
+        padding-left: 0px;
+    }
+    .privacy .privacy_in .privacy_des p{
+        padding-bottom: 20px;
+    }
+    .privacy .privacy_in .privacy_des h5{
+        padding-bottom: 10px;
+    }
+    
+    /**********************************************************************
+        Terms and Conition and Privecy Policy inner page responsive end
+    ***********************************************************************/
+    
+    /***************************************
+        Shop inner page Responsive start
+    ***************************************/
+    
+    .shop{
+        margin-top: 15px;
+    }
+    .shop .listing_product{
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .shop .listing_product .product_box .model_image img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .shop .listing_product .pro_sec_gap{
+        margin-bottom: 0px;
+    }
+    .shop .listing_product .product_box .model_image{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .product_box .product_cap p{
+        padding-bottom: 5px;
+    }
+    .shop .listing_product .product_box .product_cap button{
+        padding: 7px 15px;
+        margin-bottom: 10px;
+    }
+    .shop_bg h2{
+        margin: 80px 0 !important;
+        padding-left: 0px;
+        padding-bottom: 15px;
+        font-size: 33px;
+    }
+    .shop_bg h2::after{
+        left: 0px;
+    }
+    .shop_bg{
+        margin-top: 20px;
+    }
+    .shop .sort{
+        margin-right: 0px;
+        width: 100%;
+        float: left;
+    }
+    .shop .listing_product .left_fix_category{
+        width: 100%;
+    }
+    .shop .listing_product h3{
+        padding-bottom: 15px;
+    }
+    .shop .listing_product .price-range-block{
+        width: 100%;
+    }
+    .shop .listing_product .price-range-block h3{
+        padding: 15px 0;
+    }
+    .shop .listing_product .price-range-block .price-range-field{
+        width: 20%;
+    }
+    .price_min_to_max{
+        margin: 20p 0;
+    }
+    .shop .listing_product .price-range-block button{
+        margin-bottom: 15px;
+    }
+    .shop .listing_product .pro_right_gap{
+        padding: 0 15px 15px 15px;
+    }
+    .shop .pedi ul li{
+        margin-bottom: 10px;
+    }
+    
+    /***************************************
+        Shop inner page Responsive end
+    ***************************************/
+}
