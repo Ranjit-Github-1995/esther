@@ -2643,6 +2643,10 @@ select {
     color: #000000;
     font-weight: 300;
     cursor: pointer;
+    background-color: #fff !important;
+}
+.shop .sort .sory_by_chose select option{
+    background-color: #fff !important;
 }
 .select::after{
     content: '\25BC';
