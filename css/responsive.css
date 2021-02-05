@@ -518,6 +518,12 @@
     .shop .listing_product .pro_sec_gap{
         margin-bottom: 30px;
     }
+    .shop .listing_product .example2{
+        width: 97%;
+    }
+    .shop .listing_product .example2::-webkit-scrollbar{
+        width: 8px;
+    }
     
     /***************************************
         Shop inner page Responsive end
@@ -1165,12 +1171,20 @@
     .shop .listing_product .product_box .product_cap button{
         padding: 7px 15px;
         margin-bottom: 10px;
+        float: none;
+        display: block;
     }
     .shop_bg h2{
         margin: 100px 0 !important;
     }
     .shop_bg{
         margin-top: 0px;
+    }
+    .shop .listing_product .example2{
+        width: 97%;
+    }
+    .shop .listing_product .example2::-webkit-scrollbar{
+        width: 8px;
     }
     
     /***************************************
@@ -1930,6 +1944,12 @@
     }
     .shop .listing_product .pro_right_gap{
         padding: 0 15px 15px 15px;
+    }
+    .shop .listing_product .example2{
+        width: 95.3%;
+    }
+    .shop .listing_product .example2::-webkit-scrollbar{
+        width: 6px;
     }
     
     /***************************************
@@ -2743,6 +2763,12 @@
     }
     .shop .listing_product .pro_right_gap{
         padding: 0 15px 15px 15px;
+    }
+    .shop .listing_product .example2{
+        width: 95.5%;
+    }
+    .shop .listing_product .example2::-webkit-scrollbar{
+        width: 6px;
     }
     
     /***************************************
@@ -3634,6 +3660,12 @@
     }
     .shop .pedi ul li{
         margin-bottom: 10px;
+    }
+    .shop .listing_product .example2{
+        width: 95.8%;
+    }
+    .shop .listing_product .example2::-webkit-scrollbar{
+        width: 6px;
     }
     
     /***************************************

@@ -130,6 +130,9 @@ a{
 	display: block;
 	content: '';
 }
+.hvr-sweep-to-right::before{
+    background-color: #000000 !important;
+}
 /***************************
 	Header css start
 *****************************/
@@ -197,7 +200,7 @@ a{
 .outer{
     background-color: #f2f2f2;
     height: 565px;
-    padding-bottom: 12px;
+    /*padding-bottom: 12px;*/
 }
 
 /*******************
@@ -863,6 +866,9 @@ a{
     text-transform: uppercase;
     padding: 9.5px 40px;
     margin-top: 35px;
+}
+.wedding .wedding_bg a.view.hvr-sweep-to-right::before{
+    background-color: #000000;
 }
 
 /***************************************
@@ -2644,7 +2650,7 @@ select {
     color: #000000;
     font-weight: 300;
     cursor: pointer;
-    background-color: #fff !important;
+    background-color: #fff;
 }
 .shop .sort .sory_by_chose select option{
     background-color: #fff !important;
@@ -2695,9 +2701,9 @@ select {
     text-transform: capitalize;
 }
 .shop .listing_product .example2{
-    overflow: scroll;
+    /*overflow: scroll;
     height: 312px;
-    overflow-x: hidden;
+    overflow-x: hidden;*/
 }
 .shop .listing_product .left_fix_category .demo{
     width: 100%;;
@@ -2842,6 +2848,9 @@ select {
     float: left;
     margin-right: 12px;
 }
+.shop .listing_product .product_box .product_cap button.hvr-sweep-to-right::before{
+    background-color: #000000;
+}
 .shop .listing_product .product_box .product_cap a{
     float: left;
     margin-right: 8px;
@@ -2862,82 +2871,43 @@ select {
     background-color: #dc123e;
     transition: 0.5s;
 }
+.shop .listing_product .bottom_line {
+	border-bottom: 1px solid #e8e8e8;
+}
 
-/*** col ***/
-
-
-.shop .listing_product ul li.no_margin{
-    margin-right: 0px;
+.shop .listing_product .example2::-webkit-scrollbar{
+    width: 6px;
+    height: 25px;
 }
-.shop .listing_product ul li:last-child{
-    margin-right: 0px;
+.shop .listing_product .example2::-webkit-scrollbar-thumb{
+    background: #c4c4c4;
 }
-.shop .listing_product .bottom_line{
-    border-bottom: 1px solid #e8e8e8;
+.shop .listing_product .example2::-webkit-scrollbar-track{
+    /*border-right: 1px solid #e0e0e0;*/
 }
-.shop .listing_product ul li.product_box .model_image{
-    overflow: hidden;
-    padding-bottom: 30px;
+.shop .listing_product .example2{
+    width: 96%;
+    height: 312px;
+    overflow: auto;
+    position: relative;
 }
-.shop .listing_product ul li.product_box .product_cap{
-    overflow: hidden;
+.shop .listing_product .demo{
+    position: relative;
 }
-.shop .listing_product ul li.product_box .product_cap p{
-    font-size: 14px;
-    color: #000000;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-}
-.shop .listing_product ul li.product_box .product_cap span{
-    font-size: 16px;
-    color: #000000;
-    font-size: 16px;
-    font-weight: 500;
-    padding-bottom: 12px;
-    display: block;
-}
-.shop .listing_product ul li.product_box .product_cap button{
-      position: relative;
-      overflow: hidden;
-      transition: background 400ms;
-      color: #fff;
-      background-color: #dc123e;
-      padding: 7px 26px;
-      font-family: 'Roboto', sans-serif;
-      font-size: 16px;
-    font-weight: 400;
-    text-transform: uppercase;
-      outline: 0;
-      border: 0;
-      cursor: pointer;
-    float: left;
-    margin-right: 12px;
-}
-.shop .listing_product ul li.product_box .product_cap a{
-    float: left;
-    margin-right: 8px;
-    background-color: #ecebeb;
-    width: 42px;
-    height: 42px;
-    border-radius: 100%;
-}
-.shop .listing_product ul li.product_box .product_cap a i{
-    color: #7d7473;
-    padding: 13px 14px;
-}
-.shop .listing_product ul li.product_box .product_cap a:hover i{
-    color: #fff;
-    transition: 0.5s;
-}
-.shop .listing_product ul li.product_box .product_cap a:hover{
-    background-color: #dc123e;
-    transition: 0.5s;
+.shop .listing_product .demo::after {
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 86%;
+    background-color: #e0e0e0;
+    right: 5%;
+    bottom: 0;
+    top: 14%;
+    z-index: -1;
 }
 
 
-/*****************************
-    Shop inner page end
-*****************************/
+
 
 /**************************
     Pedimotor sec start
@@ -2995,6 +2965,10 @@ select {
 /**************************
     Pedimotor sec end
 **************************/
+
+/*****************************
+    Shop inner page end
+*****************************/
 
 
 
